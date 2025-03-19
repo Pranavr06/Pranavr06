@@ -18,7 +18,7 @@
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pranavr06)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)]([your-portfolio-link](https://pranavr.netlify.app/))  
 
-<h2 align="center">hey there 👋</h2>
+<h2 align="center">👋</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=visitors&color=blue&style=flat" alt="visitor badge"/>
