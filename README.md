@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Hi, I'm Pranav R! 👋  
-🎓 Information Science Engineering Student | 💻 Tech Enthusiast  
+🎓 **Information Science Engineering Student** | 💻 **Tech Enthusiast**    
 
 - 🌱 Currently learning MATLAB and Cybersecurity  
 - 🚀 Building a portfolio and improving GitHub  
@@ -9,8 +9,6 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavr06&show_icons=true)
 
-# Hi, I'm Pranav R! 👋  
-🎓 **Information Science Engineering Student** | 💻 **Tech Enthusiast**  
 
 ## 🚀 About Me  
 - 🌱 Currently learning **MATLAB & Cybersecurity**  
