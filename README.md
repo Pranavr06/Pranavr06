@@ -1,7 +1,5 @@
 # Hi, I'm Pranav R! 👋  
 
-<img src="(https://github.com/user-attachments/assets/52215ae2-7141-4753-9d8a-03dfd3d15484)" alt="Pranav R" width="100%">
-
 🎓 **Information Science Engineering Student** | 💻 **Tech Enthusiast**    
 
 ## 🚀 About Me  
