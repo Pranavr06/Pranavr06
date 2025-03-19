@@ -1,5 +1,4 @@
 # Hi, I'm Pranav R! 👋  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 🎓 **Information Science Engineering Student** | 💻 **Tech Enthusiast**    
 
@@ -19,7 +18,7 @@
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavr06/)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://pranavr.netlify.app/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PranavR2006)
 
-<h2 align="center">👋</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=visitors&color=blue&style=flat" alt="visitor badge"/>
