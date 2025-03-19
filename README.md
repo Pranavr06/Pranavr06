@@ -1,4 +1,7 @@
 # Hi, I'm Pranav R! 👋  
+## Hi, I'm Pranav R! 👋  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 
 🎓 **Information Science Engineering Student** | 💻 **Tech Enthusiast**    
 
