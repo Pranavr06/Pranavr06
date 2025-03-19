@@ -13,11 +13,7 @@
 **Other Skills:** Web development
 
 ## 📈 GitHub Stats  
-## 📈 GitHub Stats (2024)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavr06&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavr06&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=pranavr06e&theme=radical)  
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-profile)  
