@@ -5,6 +5,6 @@
 
 - 🌱 Currently learning MATLAB and Cybersecurity  
 - 🚀 Building a portfolio and improving GitHub  
-- 📫 Reach me: [Your Email or LinkedIn]  
+- 📫 Reach me: www.linkedin.com/in/pranavr06  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
