@@ -14,9 +14,9 @@
 
 ## 📈 GitHub Stats  
 ## 📈 GitHub Stats (2024)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavr06&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavr06&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=pranavr06e&theme=radical)  
 
 
 ## 📫 Connect with Me  
