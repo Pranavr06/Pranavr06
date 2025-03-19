@@ -1,5 +1,7 @@
 # Hi, I'm Pranav R! 👋  
 
+<img src="your-banner-image-url" alt="Pranav R" width="100%">
+
 🎓 **Information Science Engineering Student** | 💻 **Tech Enthusiast**    
 
 ## 🚀 About Me  
