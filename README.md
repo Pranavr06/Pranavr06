@@ -3,9 +3,9 @@
 🎓 **Information Science Engineering Student** | 💻 **Tech Enthusiast**    
 
 ## 🚀 About Me  
-- 🌱 Currently learning **MATLAB & Cybersecurity**  
+- 🌱 Currently learning **Programming**  
 - ⚡ Exploring **GitHub, Open Source & Web Development**    
-- 💡 Fun fact: I love Tech innovations.
+- 💡 Fun fact: **I love Tech Innovations.**
 
 ## 🛠️ Tech Stack  
 **Languages:** Python, C, MATLAB  
