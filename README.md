@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Pranav R! 👋  
 🎓 **Information Science Engineering Student** | 💻 **Tech Enthusiast**    
 
