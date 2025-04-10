@@ -15,8 +15,11 @@
  
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavr06&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavr06&layout=compact&theme=github_dark)
+<!-- GitHub Stats Card -->
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranavr06&show_icons=true&theme=github_dark)
+
+<!-- Top Languages (Full Size) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavr06&layout=default&theme=github_dark)
 
 
 ## 📫 Connect with Me  
