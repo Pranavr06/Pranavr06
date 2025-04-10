@@ -15,11 +15,16 @@
  
 
 ## 📈 GitHub Stats  
-<!-- GitHub Stats Card -->
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranavr06&show_icons=true&theme=github_dark)
-
-<!-- Top Languages (Full Size) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavr06&layout=default&theme=github_dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Pranavr06&show_icons=true&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavr06&layout=default&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
 
 ## 📫 Connect with Me  
