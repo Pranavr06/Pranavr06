@@ -14,17 +14,14 @@
 **Other Skills:** Web development
  
 
-## 📈 GitHub Stats  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Pranavr06&show_icons=true&theme=github_dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavr06&layout=default&theme=github_dark" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pranavr06&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavr06&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+
+</div>
 
 
 ## 📫 Connect with Me  
